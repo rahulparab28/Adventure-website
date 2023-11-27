@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Adventure-website/static/css/main.a2327399.css",
+    "main.js": "/Adventure-website/static/js/main.ae0e5fa0.js",
+    "static/js/787.0f7dc5a1.chunk.js": "/Adventure-website/static/js/787.0f7dc5a1.chunk.js",
+    "index.html": "/Adventure-website/index.html",
+    "main.a2327399.css.map": "/Adventure-website/static/css/main.a2327399.css.map",
+    "main.ae0e5fa0.js.map": "/Adventure-website/static/js/main.ae0e5fa0.js.map",
+    "787.0f7dc5a1.chunk.js.map": "/Adventure-website/static/js/787.0f7dc5a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2327399.css",
+    "static/js/main.ae0e5fa0.js"
+  ]
+}
